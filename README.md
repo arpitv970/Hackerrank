@@ -1,6 +1,4 @@
 # Hackerrank
-This is the solution by me done on hackerrank
----
 ## Progress
 ### Data Structure
   - [ ] Arrays
